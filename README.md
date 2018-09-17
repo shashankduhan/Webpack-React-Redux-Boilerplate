@@ -26,3 +26,16 @@ npm start
 npm run build
 ```
 Now your 'dist' folder containes the code you need to push to the server.
+
+
+## Next Step
+
+| Functionality | Status |
+| React | Done |
+| Webpack | Done |
+| SCSS | Done |
+| Breakpoints | --- |
+| Redux | --- |
+
+
+------------------------------- Work In Progress --
