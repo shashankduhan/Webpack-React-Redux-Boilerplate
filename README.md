@@ -36,7 +36,7 @@ Now your 'dist' folder containes the code you need to push to the server.
 | Webpack | Done |
 | SCSS | Done |
 | Breakpoints | --- |
-| Redux | --- |
+| Redux | Done |
 
 
 ------------------------------- Work In Progress --
