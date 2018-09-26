@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './app.scss';
 import store from './store';
 import { Provider } from 'react-redux';
-import TestComponent from './components/Test/TestComponent';
+import SettingsPanel from './components/SettingsPanel/SettingsPanel';
 
 class App extends Component {
     constructor(props){
@@ -12,7 +12,7 @@ class App extends Component {
     render(){
         return (
             <Provider store={store}>
-                <TestComponent />
+                <SettingsPanel />
             </Provider>
         )
     }
