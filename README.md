@@ -1,6 +1,11 @@
 # Webpack-React-Boilerplate
 A boilerplate for webpack and react, SCSS implemented too.
 
+## Pre requisites
+
+Install Redux DevTools
+[Install](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
+
 ## Clone
 Clone the repo
 Run this in your Terminal/Command Prompt :
